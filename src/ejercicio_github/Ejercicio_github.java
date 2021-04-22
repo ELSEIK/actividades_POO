@@ -17,7 +17,7 @@ public class Ejercicio_github {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("hola soy isak lozoya :3");
+        System.out.println("hola soy isak lozoya:3");
     }
     
 }
